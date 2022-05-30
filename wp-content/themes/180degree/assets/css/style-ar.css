@@ -1,0 +1,181 @@
+* {
+    direction: rtl;
+}
+
+.main-head .op-menu {
+    direction: ltr;
+}
+
+.hero-s .h-btn span {
+    margin: 0 0 0 30px;
+}
+
+.serv-s .block .inner a .i-cap img,
+.serv-s .block .inner a .i-cap h3 {
+    right: 20px;
+    left: auto;
+}
+
+.serv-s .block .inner a:before {
+    right: 0;
+    left: auto;
+    background: -webkit-linear-gradient(right, #000, rgb(0 0 0 / 66%), #fff0);
+}
+
+.owl-carousel .owl-stage-outer,
+.owl-carousel {
+    direction: ltr;
+}
+
+.courses .c-inner .c-wrap .owl-nav {
+    text-align: left;
+}
+
+.courses .c-inner .c-wrap .owl-nav button {
+    transform: scaleX(-1);
+    margin: 0 15px 0 0;
+}
+
+.motivate .mot--data {
+    padding: 0 0 0 50px;
+}
+
+.motivate .mot--img,
+.testo .item .i-img {
+    padding: 0;
+}
+
+.courses .c-inner .c-wrap .i-img span {
+    left: auto;
+    right: -30px;
+    transform: rotate(45deg);
+}
+
+.send-s .g-body .form-group:last-of-type {
+    text-align: left;
+}
+
+.f-top .f-item .c-info li {
+    padding: 0 35px 0 0;
+}
+
+.f-top .f-item .c-info li i {
+    right: 0;
+    left: auto;
+}
+
+.f-botom span:last-child {
+    text-align: left;
+}
+
+.toTop {
+    left: 40px;
+    right: auto;
+}
+
+.abtop .t-img {
+    padding: 0;
+}
+
+.vlog .block .inner .i-img span,
+.courses .block .inner .i-img span {
+    right: 20px;
+    left: auto;
+}
+
+.blogs .block.bigOne .inner .i-data {
+    padding: 0 30px 0 0;
+}
+
+.blogs .block .inner .i-data .i-author .au-img {
+    margin: 0 0 0 15px;
+}
+
+.n-links .next {
+    text-align: left;
+}
+
+.n-links span i {
+    transform: scaleX(-1);
+}
+
+.n-links .prev i {
+    margin: 0 -15px 0 0;
+}
+
+.n-links .next i {
+    margin: 0 0 0 -15px;
+}
+
+.blog-single .desc-card {
+    padding: 0 15px 0 50px;
+}
+
+.side-card ul li .s-img {
+    margin: 0 0 0 15px;
+}
+
+.courses .title-card h4 {
+    margin: 0 0 0 30px;
+}
+
+.courses .title-card .form-group .form-control span,
+.courses .title-card .form-group .form-control .list li {
+    text-align: initial;
+}
+
+.courses .title-card .form-group .form-control:after {
+    left: 15px;
+    right: auto;
+}
+
+.coorse .co-box {
+    padding: 0 0 0 30px;
+}
+
+.co-rate .Stars,
+.coorse .co-side .co-revs ul li .r-img {
+    margin: 0 0 0 20px;
+}
+
+.coorse ul li:before {
+    right: 0;
+    left: auto;
+}
+
+.co-rate .Stars::before {
+    background: linear-gradient(-90deg, #4b9583 var(--percent), #414042 var(--percent));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.coorse .co-side .co-revs .g-more {
+    text-align: left;
+}
+
+.coorse .co-extra .owl-carousel .owl-nav button.owl-prev {
+    left: 15px;
+}
+
+.coorse .co-extra .owl-carousel .owl-nav button.owl-next {
+    left: 60px;
+}
+
+.coorse .co-extra .owl-carousel .owl-nav button {
+    right: auto !important;
+}
+
+.oneon,
+.oneon .container {
+    text-align: left;
+    direction: ltr;
+}
+
+.oneon:before {
+    transform: scaleX(-1);
+}
+
+.courses .nav-tabs li {
+    margin: 0 0 0 20px;
+}

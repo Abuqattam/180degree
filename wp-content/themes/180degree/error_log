@@ -1,0 +1,8 @@
+[20-Jan-2022 12:16:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/a3alam87/public_html/180degree/wp-content/themes/180degree/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home3/a3alam87/public_html/180degree/wp-content/themes/180degree/index.php on line 1
+[20-Jan-2022 12:16:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/a3alam87/public_html/180degree/wp-content/themes/180degree/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home3/a3alam87/public_html/180degree/wp-content/themes/180degree/index.php on line 1
